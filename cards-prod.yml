@@ -1,7 +1,7 @@
 build:
   version: "66.48"
 cards:
-  message: "Cards Service Product Owner"
+  message: "Cards Service Prod Owner"
   contactDetails:
     name: "EazyBytes cards Product Owner"
     email: "l4m0U@example.com"
