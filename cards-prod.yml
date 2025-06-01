@@ -1,5 +1,5 @@
 build:
-  version: "6.78"
+  version: "66.48"
 cards:
   message: "Cards Service Product Owner"
   contactDetails:
