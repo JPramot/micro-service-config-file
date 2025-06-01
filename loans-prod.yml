@@ -1,5 +1,5 @@
 build:
-  version: "4.44"
+  version: "1.111"
 loans:
   message: "Loans Service Product Owner"
   contactDetails:
