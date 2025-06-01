@@ -1,5 +1,5 @@
 build:
-  version: "66.48"
+  version: "6.5"
 cards:
   message: "Cards Service Prod Owner"
   contactDetails:
