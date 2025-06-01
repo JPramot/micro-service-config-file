@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Accounts Service"
   contactDetails:
-    name: "EazyBytes"
+    name: "EazyBytes default"
     email: "l4m0U@example.com"
   onCallSupport:
     - (+91) 1234567890
