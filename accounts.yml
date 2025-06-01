@@ -1,5 +1,5 @@
 build:
-  version: "2.22"
+  version: "{cipher}2a5056fbd8f0a247b845c8b96749e4b84ec59dca9175ffa3f043c9b439fdc4c0"
 
 accounts:
   message: "Accounts Service"
