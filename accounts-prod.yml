@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Accounts Service Product Owner"
+  contactDetails:
+    name: "EazyBytes Product Owner"
+    email: "l4m0U@example.com"
+  onCallSupport:
+    - (+91) 1234567890
+    - (+91) 1234567891

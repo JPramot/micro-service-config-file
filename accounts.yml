@@ -1,0 +1,15 @@
+build:
+  version: "3.3"
+
+accounts:
+  message: "Accounts Service"
+  contactDetails:
+    name: "EazyBytes"
+    email: "l4m0U@example.com"
+  onCallSupport:
+    - (+91) 1234567890
+    - (+91) 1234567891
+
+logging:
+  pattern:
+    console: ${LOGPATTERN_CONSOLE:%green(%d{HH:mm:ss.SSS}) %blue(%-5level) %red([%thread]) %yellow(%logger{15}) - %msg%n}
