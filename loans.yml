@@ -1,5 +1,5 @@
 build:
-  version: "3.0"
+  version: "{cipher}efdb924116a3cdc4ab018de13b88bca69d325726bdc2d08598fb7dafb99cfa43"
 
 loans:
   message: "loans Service"
