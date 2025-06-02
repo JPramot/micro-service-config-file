@@ -1,5 +1,5 @@
 build:
-  version: "{cipher}2a5056fbd8f0a247b845c8b96749e4b84ec59dca9175ffa3f043c9b439fdc4c0"
+  version: "{cipher}04f356186623fee0a5d62191e1d4dc2c09a1714ec59eeb175c97f34ec003adbd"
 
 accounts:
   message: "Accounts Service"
